@@ -1,0 +1,7 @@
+streamlit
+xarray
+numpy
+pandas
+matplotlib
+geopandas
+h5netcdf
